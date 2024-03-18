@@ -93,7 +93,9 @@ print("my webserver is running...")
 httpd.serve_forever()
 ```
 ## OUTPUT:
-![Uploading Screenshot (1).png…]()
+![Screenshot (1)](https://github.com/SwaminathanV23000747/simplewebserver/assets/148931113/f92ab733-3364-4904-acf8-a05da0a42311)
+![Screenshot 2024-03-12 113310](https://github.com/SwaminathanV23000747/simplewebserver/assets/148931113/a4607e78-e058-42cd-a180-22743ee7dbad)
+
 
 
 ## RESULT:
